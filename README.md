@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suddha-Abhitej
-- 👀 I’m interested in Data Science,ML,MYSQL
+- 👀 I’m interested in Data Science,ML,AI
 - 🌱 I’m currently learning Data Science
 
 
